@@ -1,7 +1,6 @@
 <?php
 session_start();
 ?>
-
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -70,7 +69,6 @@ session_start();
 <body>
 
 <div class="login-container">
-    <img src="path/to/your/image.jpg" alt="Login Image">
     <h2>Login</h2>
     <form method="post" action="">
         <label for="username">Username:</label>

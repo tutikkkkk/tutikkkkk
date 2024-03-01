@@ -78,7 +78,7 @@ session_destroy();
 </div>
 
 <footer>
-    &copy; 2024 Your Company
+    &copy; 2024 UKK
 </footer>
 
 </body>
